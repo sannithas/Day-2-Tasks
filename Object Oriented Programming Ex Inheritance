@@ -1,0 +1,19 @@
+class Person {
+    public void showIdentity() {
+        System.out.println("I am a person at Virginia Tech");
+    }
+}
+
+class Faculty extends Person {
+    public void showRole() {
+        System.out.println("I am a faculty member at Virginia Tech");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Faculty facultyMember = new Faculty();
+        facultyMember.showIdentity(); 
+        facultyMember.showRole();     
+    }
+}
