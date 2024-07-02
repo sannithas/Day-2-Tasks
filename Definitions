@@ -1,0 +1,7 @@
+What is Data Abstraction?
+ Data abstraction involves hiding the details behind the code's action. It exposes only the necessary features to the user and allows the user to interact with functions without needing to understand the complexity behind the process. 
+What is Data Encapsulation?
+  Data encapsulation is the practice of bundling the data and the methods that operate on the data into a class. It restricts direct access to some of the object's components, promoting data security.
+What is Inheritance?
+  Inheritance allows a new class to inherit the properties and methods of an existing class, like a subclass. 
+What is Polymorphism?  Polymorphism allows a single function to operate in a flexible way. It allows objects of different classes to operate in different ways based on the context of the code.
